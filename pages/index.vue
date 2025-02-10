@@ -54,7 +54,7 @@ const navigateToChat = async () => {
   messages.value.push(userInput.value)
   
   try {
-    const response = await fetch('http://localhost:8000/answer', {
+    const response = await fetch('https://api-fragrant-bush-7881.fly.dev/answer', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
