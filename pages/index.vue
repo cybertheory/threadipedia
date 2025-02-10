@@ -108,7 +108,7 @@ onMounted(() => {
       Threadipedia
     </div>
     <div class="flex z-10 relative">
-      <h1 class="text-4xl font-bold text-slate-950 text-center w-screen mt-40">The Best Chat Interface for
+      <h1 class="text-4xl font-bold text-slate-950 text-center w-screen mt-40">The AI deep research agent for
         <span class="text-blue-700 underline"><a href="https://en.wikipedia.org">Wikipedia</a></span>
       </h1>
     </div>
